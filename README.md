@@ -1,19 +1,34 @@
-# Education_Data_Analysis
-Understanding how study habits, motivation, and external factors affect students' exam results.
+🎓 Education Data Analysis
 
-Overall, the analysis suggests that individual effort and consistency play a much greater role in students’ academic performance than external factors such as school type, teacher quality, or family income.
+🎯 Objective
+To explore how study habits, motivation, and external factors influence students’ academic performance and exam outcomes.
 
-The strongest predictors of high exam scores are study time and attendance. Students who dedicate more hours to studying and maintain regular attendance tend to achieve the best results, regardless of their motivation level, socioeconomic status, or access to resources.
+📊 Summary
+The analysis indicates that individual effort and consistency are the strongest determinants of academic achievement. External conditions such as school type, teacher quality, or family income play a comparatively minor role.
 
-While tutoring and parental involvement can provide additional support, they cannot substitute for personal discipline and self-study. Tutoring appears most effective for students who already study regularly but less impactful for those with low study engagement. Similarly, access to educational resources mainly benefits highly active learners.
+💡 Key Insights
 
-Some findings challenge common expectations — for example, students with less sleep sometimes outperformed their peers, possibly due to spending more time studying. However, there’s no strong correlation between sleep duration and performance once motivation and attendance are considered.
+⏱️ Study time and attendance are the most reliable predictors of high exam scores. Students who maintain consistent study routines and regular attendance outperform peers, regardless of background or motivation level.
 
-Environmental and social factors such as teacher quality, school type, or family income showed little influence, whereas positive peer influence and high parental involvement clearly enhanced results. Students with learning disabilities achieved strong scores when supported by both parents and tutors.
+👨‍🏫 Tutoring and parental involvement provide meaningful support but cannot substitute for personal discipline. Tutoring is particularly effective for already motivated students with consistent study habits.
 
-Finally, proximity to school has a minor effect: students living nearby tend to perform better, yet high attendance (rather than distance) remains the real differentiator.
+📚 Access to educational resources enhances outcomes primarily for students who actively engage with them.
 
-In summary, consistent study habits and attendance are the key drivers of academic success, while external support systems act as secondary amplifiers rather than primary determinants.
+🌙 Sleep duration shows no strong correlation with performance once study time and motivation are controlled for, despite cases where shorter sleep correlated with higher effort.
 
-Below is the dashboard summarising key metrics and visual insights from the analysis.
+🧑‍🤝‍🧑 Social environment factors — such as peer influence and parental engagement — positively correlate with success, while teacher quality and school type show minimal direct impact.
+
+💪 Students with learning disabilities can achieve strong results when supported by both parents and tutors.
+
+🏡 Proximity to school has a modest effect: students living closer perform slightly better, but attendance remains the key differentiating factor.
+
+🧭 Conclusion
+Consistent study habits and regular attendance are the primary drivers of academic success.
+External factors — including tutoring, family support, and available resources — act as performance enhancers rather than determinants.
+These findings highlight the central role of personal effort and self-regulation in shaping learning outcomes.
+
+📈 Dashboard Overview
+The Tableau dashboard visualises key trends in study habits, attendance, and performance distribution.
+It provides an overview of how different variables interact, supporting the conclusion that effort and engagement outweigh environmental advantages.
+
 <img width="1432" height="830" alt="Screenshot 2025-10-26 at 21 31 58" src="https://github.com/user-attachments/assets/a1ffb71f-10f2-4fcd-8c92-ea802e6a9b0d" />
