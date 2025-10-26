@@ -14,3 +14,6 @@ Environmental and social factors such as teacher quality, school type, or family
 Finally, proximity to school has a minor effect: students living nearby tend to perform better, yet high attendance (rather than distance) remains the real differentiator.
 
 In summary, consistent study habits and attendance are the key drivers of academic success, while external support systems act as secondary amplifiers rather than primary determinants.
+
+Below is the dashboard summarising key metrics and visual insights from the analysis.
+<img width="1432" height="830" alt="Screenshot 2025-10-26 at 21 31 58" src="https://github.com/user-attachments/assets/a1ffb71f-10f2-4fcd-8c92-ea802e6a9b0d" />
