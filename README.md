@@ -8,19 +8,19 @@ The analysis indicates that individual effort and consistency are the strongest 
 
 💡 Key Insights
 
-⏱️ Study time and attendance are the most reliable predictors of high exam scores. Students who maintain consistent study routines and regular attendance outperform peers, regardless of background or motivation level.
+Study time and attendance are the most reliable predictors of high exam scores. Students who maintain consistent study routines and regular attendance outperform peers, regardless of background or motivation level.
 
-👨‍🏫 Tutoring and parental involvement provide meaningful support but cannot substitute for personal discipline. Tutoring is particularly effective for already motivated students with consistent study habits.
+Tutoring and parental involvement provide meaningful support but cannot substitute for personal discipline. Tutoring is particularly effective for already motivated students with consistent study habits.
 
-📚 Access to educational resources enhances outcomes primarily for students who actively engage with them.
+Access to educational resources enhances outcomes primarily for students who actively engage with them.
 
-🌙 Sleep duration shows no strong correlation with performance once study time and motivation are controlled for, despite cases where shorter sleep correlated with higher effort.
+Sleep duration shows no strong correlation with performance once study time and motivation are controlled for, despite cases where shorter sleep correlated with higher effort.
 
-🧑‍🤝‍🧑 Social environment factors — such as peer influence and parental engagement — positively correlate with success, while teacher quality and school type show minimal direct impact.
+Social environment factors — such as peer influence and parental engagement — positively correlate with success, while teacher quality and school type show minimal direct impact.
 
-💪 Students with learning disabilities can achieve strong results when supported by both parents and tutors.
+Students with learning disabilities can achieve strong results when supported by both parents and tutors.
 
-🏡 Proximity to school has a modest effect: students living closer perform slightly better, but attendance remains the key differentiating factor.
+Proximity to school has a modest effect: students living closer perform slightly better, but attendance remains the key differentiating factor.
 
 🧭 Conclusion
 Consistent study habits and regular attendance are the primary drivers of academic success.
