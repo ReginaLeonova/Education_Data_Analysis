@@ -1,21 +1,26 @@
-Education_Data_Analysis 
+🎓 Education Data Analysis
 
+🎯 Goal
+Investigate how study habits, motivation, and external factors influence students’ exam performance.
+The analysis was conducted using the Education_Data_Analysis dataset.
 
-Understanding how study habits, motivation, and external factors affect students' exam results. 
+🧠 Hypothesis
+Students who study more consistently and attend classes regularly achieve higher exam results, regardless of socioeconomic background or school type.
 
-Overall, the analysis suggests that individual effort and consistency play a much greater role in students’ academic performance than external factors such as school type, teacher quality, or family income. 
+📊 Findings
+The analysis shows that individual effort and consistency have a far stronger impact on academic performance than external conditions such as school quality, teacher effectiveness, or family income.
+Study time and attendance are the most reliable predictors of success.
+Students who study regularly and maintain high attendance outperform peers across all motivational and socioeconomic levels.
+Tutoring and parental involvement improve results but cannot replace personal discipline and self-study. Their effect is strongest among already engaged students.
+Access to resources primarily benefits motivated learners rather than compensating for low engagement.
+Contrary to expectations, sleep duration showed little correlation once motivation and attendance were accounted for.
+Positive peer influence and parental support significantly enhance results, while school proximity has only a minor indirect effect via attendance.
 
-The strongest predictors of high exam scores are study time and attendance. Students who dedicate more hours to studying and maintain regular attendance tend to achieve the best results, regardless of their motivation level, socioeconomic status, or access to resources. 
+⚠️ Key Insight:
+Consistent study habits and attendance are the primary drivers of academic success, while external supports act as amplifiers rather than determinants.
 
-While tutoring and parental involvement can provide additional support, they cannot substitute for personal discipline and self-study. Tutoring appears most effective for students who already study regularly but less impactful for those with low study engagement. Similarly, access to educational resources mainly benefits highly active learners. 
+📈 Dashboard Insights
+Interactive Tableau dashboard visualises relationships between study behaviour, attendance, and exam outcomes — highlighting how consistency and engagement shape student performance.
 
-Some findings challenge common expectations — for example, students with less sleep sometimes outperformed their peers, possibly due to spending more time studying. However, there’s no strong correlation between sleep duration and performance once motivation and attendance are considered. 
-
-Environmental and social factors such as teacher quality, school type, or family income showed little influence, whereas positive peer influence and high parental involvement clearly enhanced results. Students with learning disabilities achieved strong scores when supported by both parents and tutors. 
-
-Finally, proximity to school has a minor effect: students living nearby tend to perform better, yet high attendance (rather than distance) remains the real differentiator. 
-
-In summary, consistent study habits and attendance are the key drivers of academic success, while external support systems act as secondary amplifiers rather than primary determinants.
-
-Below is the dashboard (Tableau) summarising key metrics and visual insights from the analysis.
+(Dashboard visualisation below)
 <img width="1432" height="830" alt="Screenshot 2025-10-26 at 21 31 58" src="https://github.com/user-attachments/assets/a1ffb71f-10f2-4fcd-8c92-ea802e6a9b0d" />
